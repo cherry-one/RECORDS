@@ -10,4 +10,4 @@ HTML, CSS, JavaScript
 
 (아키텍쳐)
 
-https://cherry-one.github.io/portfolio/
+https://cherry-one.github.io/RECORDS/
